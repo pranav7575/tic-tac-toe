@@ -1,0 +1,19 @@
+ .block{
+    border: 2px solid;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+ }
+
+ .row{
+    display: flex;
+ }
+
+ .board{
+    padding: 20px;
+ }
